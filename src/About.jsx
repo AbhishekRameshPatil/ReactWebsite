@@ -72,21 +72,20 @@ const About = () => {
             </div>
         </section>
         <footer id="footer" className="pt-5 px-3">
-                <div className="row bg-light py-5">
-                    <div className="col-sm-4 my-5 text-center">
-                        
-                            </div>
-                    <div className="col-sm-4 my-4 text-center">
-                        <div className="footer-title">
-                            <p className="description font-os font-size-16 text-black-50 text-uppercase">Crafted By</p>
-    
-                                <h1 className="brand-name text-info">
-                                    Safari kid
-                            </h1>
-                        </div>
+            <div className="row bg-light py-5">
+                <div className="col-sm-4 my-5 text-center">
+
+                </div>
+                <div className="col-sm-4 my-4 text-center">
+                    <div className="footer-title">
+                        <p className="description font-os font-size-16 text-black-50 text-uppercase">Crafted By</p>
+                        <h1 className="brand-name text-info">
+                            Safari kid
+                        </h1>
                     </div>
                 </div>
-            </footer>
+            </div>
+        </footer>
     </>
     );
 };
